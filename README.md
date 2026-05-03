@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/Chovieti)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Chovieti)](https://leetcode.com/Chovieti)
